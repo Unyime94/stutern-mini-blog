@@ -1,0 +1,29 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "title": "habitant morbi tristique senectus. Nulla facilisi morbi tempus iaculis urna id. Vitae turpis massa sed elementum tempus. Vitae sapien pellentesque habitant morbi tristique. Sagittis purus sit amet volutpat consequat mauris nunc congue. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Purus gravida quis blandit turpis cursus in hac habitasse platea.",
+      "author": "Typicode"
+    },
+    {
+      "id": 2,
+      "title": "Neque viverra justo nec ultrices. Pellentesque sit amet porttitor eget dolor morbi non arcu risus. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Est pellentesque elit ullamcorper dignissim. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nulla facilisi morbi tempus iaculis urna id. Vitae turpis massa sed elementum tempus. Vitae sapien pellentesque habitant morbi tristique. Sagittis purus sit amet volutpat consequat mauris nunc congue. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Purus gravida quis blandit turpis cursus in hac habitasse platea.",
+      "author": "Robot"
+    },
+    {
+      "id": 3,
+      "title": "Scelerisque eleifend donec pretium vulputate. Quam vulputate dignissim suspendisse in est ante in. Pellentesque nec nam aliquam sem et tortor consequat id porta. Amet consectetur adipiscing elit duis. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Felis bibendum ut tristique et. Malesuada fames ac turpis egestas sed tempus urna et. Sit amet nisl purus in mollis. Nunc non blandit massa enim nec dui nunc mattis enim. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Nisl nunc mi ipsum faucibus. Et pharetra pharetra massa massa. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Ut porttitor leo a diam sollicitudin tempor id eu. At risus viverra adipiscing at in tellus integer feugiat.",
+      "author": "Stutern"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
